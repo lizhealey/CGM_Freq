@@ -13,15 +13,10 @@ The library has 4 primary modules
     ** Spectrogram. This module computes the spectrogram and returns the output of the spectrogram as well as plots the spectrogram along with the time series signal.
 
 ## Installation
- * Clone the source of this library: `git clone https://github.com/lizhealey/cgm--freq.git`
- * Install dependencies: `pip install -r ./requirements.txt `
+ * Clone the source of this library: `git clone https://github.com/lizhealey/cgm_freq.git`
+
 
 ## An example
 See tutorial.ipynb for example usage
 <!-- #endregion -->
 
-```python
-If you found this useful, please cite!
-
-@article{}
-```
